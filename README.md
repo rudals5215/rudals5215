@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=LeeKyeongMin+%2F+%EC%9D%B4%EA%B2%BD%EB%AF%BC;Backend-focused+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+REST+API" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a2e&height=180&text=LeeKyeongMin&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Backend-focused%20Developer&descAlignY=78&descSize=16&descColor=8b949e" width="100%"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
 
 </div>
 
@@ -30,6 +34,7 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-555555?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-555555?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555555?logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?logo=html5&logoColor=E34F26)
@@ -68,33 +73,63 @@
     - 카카오맵 연동 매물 등록 및 지도 기반 탐색
     - JWT + Google OAuth2 인증 구조 구현
     - DB 1차 필터링 + 서비스 레이어 2차 필터링 구조 설계
-    - 즐겨찾기 이중 방어 구조 (existsByUserIdAndRoomId + DB 제약)
-    - 지도 idle 이벤트 기반 API 호출 최적화, 마커 클러스터링 적용
+    - 즐겨찾기 이중 방어 구조 (`existsByUserIdAndRoomId` + DB 제약)
+    - 지도 `idle` 이벤트 기반 API 호출 최적화, 마커 클러스터링 적용
     - Git 브랜치 전략 수립 · PR 코드리뷰 프로세스 정착
   - **기술 스택**
-    - FE: `React`, `TypeScript`, `JavaScript`
-    - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
+    - FE: `React` `TypeScript` `JavaScript`
+    - BE: `Java` `Spring Boot` `Spring Security` `Spring Data JPA`
     - DB: `MariaDB`
-    - API: `Kakao Map API`, `Google OAuth2`
-  - 링크: [깃허브 링크](https://github.com/rudals5215/sharestay-)
+    - API: `Kakao Map API` `Google OAuth2`
+  - 링크: [깃허브](https://github.com/rudals5215/sharestay-)
 </details>
 
 <details>
-  <summary>🧾 YouthBridge — 청년 정책 추천 플랫폼 (진행 중)</summary>
+  <summary>🧾 YouthBridge — 청년 정책 추천 플랫폼</summary>
   <br/>
 
-  > 외부 공공 API 데이터를 수집·가공하여 청년 정책을 추천하는 플랫폼
+  > 복잡하게 흩어진 청년 정책을 사용자의 나이·지역·조건에 맞게 추천해주는 플랫폼
 
-  - **기간**: 2026.01 ~ (진행 중, 1인)
+  - **기간**: 2026.01 ~ 2026.06 (1인)
   - **주요 기능**
-    - 공공 API 데이터 수집 · 가공 후 DB 저장
-    - 필터링 · 정렬 · 페이징 포함 조회 API 구현
+    - 공공 API 데이터 수집 · 가공 후 DB 저장 (스케줄러 기반 자동 수집)
+    - 나이 · 지역 · 성별 조건 기반 맞춤 정책 필터링 · 정렬 · 페이징 조회 API 구현
+    - 정책 상세 정보 제공 (지원 대상 · 지원 금액 · 신청 방법 · 공식 링크)
   - **기술 스택**
-    - BE: `Java`, `Spring Boot`, `Spring Data JPA`
+    - FE: `Next.js` `React` `TypeScript` `Tailwind CSS`
+    - BE: `Java` `Spring Boot` `Spring Data JPA`
     - DB: `MariaDB`
     - API: `공공데이터포털 API`
+  - 링크: [깃허브](https://github.com/rudals5215/YouthBridge) · [배포](https://youthbridge.kro.kr/)
 </details>
 
 ---
 
-*기계과 졸업 후 방송국 보도팀 · 제조업 현장을 거치며 데이터 체계와 협업의 중요성을 체감, 개발자로 전향.*
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudals5215&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudals5215&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rudals5215&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📝 Blog
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@po_ta_to/posts)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0d0d0d&height=80&fontSize=14&fontColor=8b949e&text=always%20debugging%2C%20always%20growing&animation=fadeIn&fontAlignY=50" width="100%"/>
+
+</div>
